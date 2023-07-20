@@ -10,9 +10,9 @@
 - Danny has provided you with a sample of his overall customer data due to privacy issues — but he hopes that these examples are enough for you to write fully functioning SQL queries to help him answer his questions!
 
 - Danny shared 3 key datasets for this case study:
-- ~sales~
-- ~menu~
-- ~members~
+   - sales
+   - menu
+   - members
 
 ![Danny Diagram](https://github.com/monill1/Danny-Ma-s-SQL-Case-Study/assets/100589518/75681b1d-a25b-4b07-ba39-cd67ddbad6b0)
 
